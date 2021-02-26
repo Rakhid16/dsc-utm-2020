@@ -1,0 +1,8 @@
+city,phone,addressLine1,addressLine2,state,country,postalCode,territory,city_Scalled
+4,2,100 Market Street,Suite 300,CA,USA,4,NA,0.6666666666666666
+0,1,1550 Court Place,Suite 102,MA,USA,0,NA,0.0
+2,0,523 East 53rd Street,apt. 5A,NY,USA,1,NA,0.3333333333333333
+3,3,43 Rue Jouffroy D'abbans,Floor #2,CA,France,3,EMEA,0.5
+6,6,4-1 Kioicho,Floor #2,Chiyoda-Ku,Japan,2,Japan,1.0
+5,5,5-11 Wentworth Avenue,Floor #2,CA,Australia,6,APAC,0.8333333333333333
+1,4,25 Old Broad Street,Level 7,CA,UK,5,EMEA,0.16666666666666666
