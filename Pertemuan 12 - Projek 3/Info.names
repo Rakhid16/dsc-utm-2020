@@ -1,0 +1,26 @@
+1. Number of Instances:  1484
+
+2. Attribute Information.
+  1.  Sequence Name: Accession number for the SWISS-PROT database
+  2.  mcg: McGeoch's method for signal sequence recognition.
+  3.  gvh: von Heijne's method for signal sequence recognition.
+  4.  alm: Score of the ALOM membrane spanning region prediction program.
+  5.  mit: Score of discriminant analysis of the amino acid content of
+	   the N-terminal region (20 residues long) of mitochondrial and 
+           non-mitochondrial proteins.
+  6.  pox: Peroxisomal targeting signal in the C-terminus.
+  7.  vac: Score of discriminant analysis of the amino acid content of
+           vacuolar and extracellular proteins.
+  8.  nuc: Score of discriminant analysis of nuclear localization signals
+	   of nuclear and non-nuclear proteins.
+
+3. Class Distribution. The class is the localization site.
+  CYT (cytosolic or cytoskeletal)                    463
+  NUC (nuclear)                                      429
+  MIT (mitochondrial)                                244
+  ME3 (membrane protein, no N-terminal signal)       163
+  ME2 (membrane protein, uncleaved signal)            51
+  ME1 (membrane protein, cleaved signal)              44
+  EXC (extracellular)                                 37
+  VAC (vacuolar)                                      30
+  POX (peroxisomal)                                   20
